@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+sdist/
+wheels/
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Trae
+.trae/
+
+# Logs
+*.log
+logs/
+
+# Sensitive files
+.env
+*.key
+*.pem
+credentials.json
+secrets.yaml
+config.ini
+
+# Old versions
+V1/
+V2/
+V3/
