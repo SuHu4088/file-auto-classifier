@@ -1,5 +1,8 @@
 # 文件自动分类器 (File Auto Classifier)
 
+> **本仓库已并入 folder-ops，后续维护请前往 https://github.com/SuHu4088/folder-ops**
+
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-6.5+-green?logo=qt&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
